@@ -29,6 +29,7 @@ Ryzen does **not** provide Gemini API keys. Each Discord server owner must obtai
 - 🛡️ **No liability:** The developer is not responsible for API usage, quota exhaustion, unexpected charges, key exposure, or other issues arising from your use of Ryzen, to the extent permitted by applicable law.
 
 By using Ryzen, you acknowledge that you are using the service at your own risk and are responsible for your own Gemini API key and its usage.
+If you don't trust Ryzen use the goose bot instead..
 
 ---
 
