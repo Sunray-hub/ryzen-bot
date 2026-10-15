@@ -86,6 +86,7 @@ Ryzen is licensed under the [MIT License](LICENSE).
 ## 🐉 Join the Ryzen community
 
 Have ideas, found a bug, or want to help improve Ryzen? Open an issue in this repository.
+Or join the discord a issue a ticket: https://discord.com/invite/RarqvuNpQR
 
 <div align="center">
 
