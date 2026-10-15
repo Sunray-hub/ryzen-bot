@@ -19,6 +19,19 @@ Ryzen is a Discord AI chatbot hosted on my own server. Invite it to your communi
 
 ---
 
+## ⚠️ Disclaimer & API Key Responsibility
+
+Ryzen does **not** provide Gemini API keys. Each Discord server owner must obtain and configure their own API key.
+
+- 🔑 **Your key, your responsibility:** You charges are your responsibility. are responsible for obtaining, securing, and managing your API key.
+- 💳 **Your usage, your limits:** API quotas, usage restrictions, and any applicable
+- 🔐 **Use at your own risk:** Although Ryzen encrypts stored API keys, no system can guarantee absolute security. Only submit an API key if you trust the service.
+- 🛡️ **No liability:** The developer is not responsible for API usage, quota exhaustion, unexpected charges, key exposure, or other issues arising from your use of Ryzen, to the extent permitted by applicable law.
+
+By using Ryzen, you acknowledge that you are using the service at your own risk and are responsible for your own Gemini API key and its usage.
+
+---
+
 ## ✨ What makes Ryzen different?
 
 - 🧠 **AI-powered conversations** using Google Gemini.
@@ -89,19 +102,6 @@ Have ideas, found a bug, or want to help improve Ryzen? Open an issue in this re
 Or join the discord a issue a ticket: https://discord.com/invite/RarqvuNpQR
 
 ---
-
-## ⚠️ Disclaimer & API Key Responsibility
-
-Ryzen does **not** provide Gemini API keys. Each Discord server owner must obtain and configure their own API key.
-
-- 🔑 **Your key, your responsibility:** You charges are your responsibility. are responsible for obtaining, securing, and managing your API key.
-- 💳 **Your usage, your limits:** API quotas, usage restrictions, and any applicable
-- 🔐 **Use at your own risk:** Although Ryzen encrypts stored API keys, no system can guarantee absolute security. Only submit an API key if you trust the service.
-- 🛡️ **No liability:** The developer is not responsible for API usage, quota exhaustion, unexpected charges, key exposure, or other issues arising from your use of Ryzen, to the extent permitted by applicable law.
-
-By using Ryzen, you acknowledge that you are using the service at your own risk and are responsible for your own Gemini API key and its usage.
-
-
 
 <div align="center">
 
