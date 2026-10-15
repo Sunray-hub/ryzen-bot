@@ -35,7 +35,7 @@ Ryzen is a Discord AI chatbot hosted on my own server. Invite it to your communi
 
 Use the official invite link provided by the project owner.
 
-> Invite link coming soon.
+> [Invite Link.](https://discord.com/oauth2/authorize?client_id=1549769425983639582&permissions=4504117171210304&integration_type=0&scope=bot+applications.commands)
 
 ### 2. Get a Gemini API key
 
